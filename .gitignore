@@ -6,4 +6,5 @@ web_modules/
 logs
 *.log
 
+package-lock.json
 .DS_Store
