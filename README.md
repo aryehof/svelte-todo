@@ -2,6 +2,8 @@
 
 An SPA todo list example using Svelte.
 
+![screen image](https://dl.dropboxusercontent.com/s/anfpw4v4dhi5l3h/2021-01-01_16-39-14.png)
+
 ### Run development version
 
 ```bash
